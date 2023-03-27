@@ -86,7 +86,6 @@ const TodoList = () => {
           ></Todo>
         );
       })}
-      Created by @me
     </div>
   );
 };
